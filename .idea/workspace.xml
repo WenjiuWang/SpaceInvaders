@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52fd5933-4be5-4fe8-bb1e-8c9edfae0272" name="Default Changelist" comment="Added movement sounds">
+      <change afterPath="$PROJECT_DIR$/../a4/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a4/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a5/app/src/main/java/net/codebot/pdfviewer/PDFimage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../a5/app/src/main/java/net/codebot/pdfviewer/PDFimage.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="181" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Wenjiu Wang\Desktop\W20\CS349\assignments\a2\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X2CPcLGXBSnXPbLRwlhMPjZnbd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Wenjiu Wang\Desktop\W20\CS349\assignments\a2\src\fonts" />
+      <recent name="C:\Users\Wenjiu Wang\Desktop\W20\CS349\assignments\a2\src\images" />
+      <recent name="C:\Users\Wenjiu Wang\Desktop\W20\CS349\assignments\a2\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Wenjiu Wang\Desktop\W20\CS349\assignments\a2\src\sounds" />
+      <recent name="C:\Users\Wenjiu Wang\Desktop\W20\CS349\assignments\a2\src\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SpaceInvaders">
+    <configuration name="HelloFX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloFX" />
+      <module name="SpaceInvaders" />
+      <option name="VM_PARAMETERS" value="--module-path F:\JAVAFX11/lib --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Layouts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Layouts" />
+      <module name="SpaceInvaders" />
+      <option name="VM_PARAMETERS" value="--module-path F:\JAVAFX11/lib --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SceneGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SceneGraph" />
+      <module name="SpaceInvaders" />
+      <option name="VM_PARAMETERS" value="--module-path F:\JAVAFX11/lib --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpaceInvaders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpaceInvaders" />
+      <module name="SpaceInvaders" />
+      <option name="VM_PARAMETERS" value="--module-path F:\JAVAFX11/lib --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="SpaceInvaders" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="SpaceInvaders" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloFX" />
+      <item itemvalue="Application.Layouts" />
+      <item itemvalue="Application.SceneGraph" />
+      <item itemvalue="Application.SpaceInvaders" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpaceInvaders" />
+        <item itemvalue="Application.SceneGraph" />
+        <item itemvalue="Application.Layouts" />
+        <item itemvalue="Application.HelloFX" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52fd5933-4be5-4fe8-bb1e-8c9edfae0272" name="Default Changelist" comment="" />
+      <created>1580158474381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580158474381</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Upload A2">
+      <created>1580358502658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580358502659</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added fire rate">
+      <created>1580409583338</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580409583338</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added font">
+      <created>1580410777623</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580410777623</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added README">
+      <created>1580411150004</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580411150004</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added README">
+      <created>1580411196735</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580411196735</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed alien speed">
+      <created>1580444112261</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580444112261</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed animation timeline and random fire">
+      <created>1581456640982</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581456640982</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed title screen">
+      <created>1581551521892</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1581551521892</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed fire rate, game over msg">
+      <created>1581553527621</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1581553527621</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fixed fire rate, game over msg">
+      <created>1581553546857</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1581553546857</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added movement sounds">
+      <created>1581623161901</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1581623161901</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upload A2" />
+    <MESSAGE value="Added fire rate" />
+    <MESSAGE value="Added font" />
+    <MESSAGE value="Added README" />
+    <MESSAGE value="Fixed alien speed" />
+    <MESSAGE value="Fixed animation timeline and random fire" />
+    <MESSAGE value="Fixed title screen" />
+    <MESSAGE value="Fixed fire rate, game over msg" />
+    <MESSAGE value="Added movement sounds" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added movement sounds" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="910" y="521" key="FileChooserDialogImpl" timestamp="1593373747327">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="910" y="521" key="FileChooserDialogImpl/0.0.3440.1440@0.0.3440.1440" timestamp="1593373747327" />
+    <state width="1923" height="393" key="GridCell.Tab.0.bottom" timestamp="1593374478670">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1923" height="393" key="GridCell.Tab.0.bottom/0.0.3440.1440@0.0.3440.1440" timestamp="1593374478670" />
+    <state width="1923" height="393" key="GridCell.Tab.0.center" timestamp="1593374478670">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1923" height="393" key="GridCell.Tab.0.center/0.0.3440.1440@0.0.3440.1440" timestamp="1593374478670" />
+    <state width="1923" height="393" key="GridCell.Tab.0.left" timestamp="1593374478670">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1923" height="393" key="GridCell.Tab.0.left/0.0.3440.1440@0.0.3440.1440" timestamp="1593374478670" />
+    <state width="1923" height="393" key="GridCell.Tab.0.right" timestamp="1593374478670">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state width="1923" height="393" key="GridCell.Tab.0.right/0.0.3440.1440@0.0.3440.1440" timestamp="1593374478670" />
+    <state x="1010" y="310" key="SettingsEditor" timestamp="1593374288117">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1010" y="310" key="SettingsEditor/0.0.3440.1440@0.0.3440.1440" timestamp="1593374288117" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/a2$SpaceInvaders.ic" NAME="SpaceInvaders Coverage Results" MODIFIED="1581623119055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
